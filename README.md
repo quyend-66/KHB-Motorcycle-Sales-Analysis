@@ -1,9 +1,9 @@
-#Phân tích Kinh doanh Hệ thống Phân phối Xe máy KHB bằng Power BI
-##📌 Giới thiệu dự án
+# Phân tích Kinh doanh Hệ thống Phân phối Xe máy KHB bằng Power BI
+## 📌 Giới thiệu dự án
 Đây là dự án học tập sử dụng Power BI để phân tích và trực quan hóa dữ liệu kinh doanh của hệ thống phân phối xe máy KHB dựa trên bộ dữ liệu he_thong_xe_may_KHB.csv.
 Dự án được xây dựng nhằm hỗ trợ theo dõi hiệu quả kinh doanh, đánh giá doanh thu, hiệu suất chi nhánh, hành vi khách hàng và xu hướng bán hàng thông qua dashboard trực quan.
 
-##🎯 Mục tiêu dự án
+## 🎯 Mục tiêu dự án
 Dự án tập trung vào các mục tiêu:
 - Phân tích doanh thu của hệ thống theo nhiều góc nhìn
 - Theo dõi xu hướng doanh thu theo thời gian
@@ -13,7 +13,7 @@ Dự án tập trung vào các mục tiêu:
 - Xác định các mẫu xe bán chạy nhất
 - Hỗ trợ ra quyết định thông qua trực quan hóa dữ liệu
 
-##📂 Bộ dữ liệu
+## 📂 Bộ dữ liệu
 Dataset: he_thong_xe_may_KHB.csv
 Dữ liệu bao gồm các thông tin như:
 - Doanh thu bán hàng
@@ -25,36 +25,36 @@ Dữ liệu bao gồm các thông tin như:
 - Thời gian giao dịch
 - Nguồn khách hàng
   
-##📊 Nội dung Dashboard
-###1. Dashboard Tổng quan kinh doanh
+## 📊 Nội dung Dashboard
+### 1. Dashboard Tổng quan kinh doanh
 ![Dashboard Tổng Quan](images/dashboard-overview.png)
-####Dashboard tổng quan giúp theo dõi:
+#### Dashboard tổng quan giúp theo dõi:
 - Tổng doanh thu
 - Tổng số lượt bán
 - Xu hướng doanh thu theo tháng
 - Doanh thu theo chi nhánh
 - Doanh thu theo hãng xe
 - Doanh thu theo nguồn khách hàng
-####Insight chính
+#### Insight chính
 - Doanh thu duy trì tương đối ổn định trong năm và đạt đỉnh vào tháng 10.
 - Honda là thương hiệu mang lại doanh thu lớn nhất, đóng góp gần một nửa tổng doanh thu.
 - Các chi nhánh như CN Tân Bình, CN Bình Tân và CN Gò Vấp có hiệu suất doanh thu cao.
 - Website là nguồn khách hàng mang lại doanh thu cao nhất, cho thấy hiệu quả của kênh trực tuyến.
   
-###2. Dashboard Phân tích sản phẩm và chi nhánh
+### 2. Dashboard Phân tích sản phẩm và chi nhánh
 ![Dashboard Phân Tích](images/dashboard-analysis.png)
-####Dashboard này tập trung vào:
+#### Dashboard này tập trung vào:
 - Doanh thu theo hãng xe
 - Top 10 xe bán chạy nhất
 - Cơ cấu doanh thu theo hãng và loại xe
 - Số lượng xe bán theo chi nhánh và loại xe
-####Insight chính
+#### Insight chính
 - Honda chiếm ưu thế cả về doanh thu và sản lượng bán.
 - Honda Blade 110 là mẫu xe có số lượng bán cao nhất.
 - Xe tay ga là phân khúc mang lại doanh thu lớn nhất.
 - Một số chi nhánh có doanh thu thấp hơn mặt bằng chung cần được đánh giá để cải thiện hiệu quả kinh doanh.
   
-###📈 Kết quả phân tích nổi bật
+### 📈 Kết quả phân tích nổi bật
 
 Từ dashboard có thể rút ra một số kết luận:
 - Doanh thu theo thời gian
